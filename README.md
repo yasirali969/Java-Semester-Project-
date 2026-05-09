@@ -157,8 +157,7 @@ Password: `123`
 ##  Demo Video
 
  **Watch our project demo here:**
-[Paste Your Video Link Here]
-
+https://1drv.ms/v/c/AAE0FCADCFD87B0C/IQB2rAOvj3t8TK0hXE6NA3BkASosIZ3peALC6Ksj3HnovSA?e=CHfhU0
 ### Video Includes:
 
 * Project overview
